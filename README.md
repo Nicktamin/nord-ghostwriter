@@ -15,7 +15,7 @@ Download the [Nord.json](Nord/Nord.json) into you Ghostwriter Themes folder, whi
 ## Preview
 
 ### Dark
-![ghostwriter-nord](Nord/screenshot_dark.png)
+![ghostwriter-nord-dark](Nord/dark.png)
 
 ### Light
-![ghostwriter-nord](Nord/screenshot_light.png)
+![ghostwriter-nord-light](Nord/lightr.png)
